@@ -35,3 +35,4 @@ const sendMessageToSlack =async(message)=> {
 
 
 setInterval( ()=>fetching(), 240000); //every 4min ~ 240000
+console.log('Start monitoring :)))) 👀👀👀')
